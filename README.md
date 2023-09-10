@@ -8,9 +8,7 @@ I'm a passionate content writer, and I've crafted engaging narratives, insightfu
 
 Dive into my blog for valuable insights:Talks about #combustion, #filtration, #lubrication, #projectsales, #facilitiesmanagement and #Educational Society
 
-Link 1: https://www.linkedin.com/pulse/revolutionizing-mechanical-engineering-through-case-study-madany/?trackingId=seyl6AU3QdiP5AN8x%2Fu7cw%3D%3D
-
-Link 2: https://www.linkedin.com/pulse/exploring-boon-bane-indian-education-system-focus-teachers-madany/?trackingId=KXGBELlbQUCyr8rFVhWkJA%3D%3D
+Link 1: Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6890010523396882432
 
 🤝 Connect and Collaborate
 
