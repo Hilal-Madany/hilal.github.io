@@ -10,9 +10,7 @@ Dive into my blog for valuable insights:Talks about #combustion, #filtration, #l
 
 Link 1: https://www.linkedin.com/pulse/revolutionizing-mechanical-engineering-through-case-study-madany/?trackingId=seyl6AU3QdiP5AN8x%2Fu7cw%3D%3D
 
-Link 2: https://www.linkedin.com/posts/s-hilaluddin_leadership-positivity-teamwork-activity-7103858366145269761-gGRO?utm_source=share&utm_medium=member_desktop
-
-Link 3: https://www.linkedin.com/pulse/exploring-boon-bane-indian-education-system-focus-teachers-madany/?trackingId=KXGBELlbQUCyr8rFVhWkJA%3D%3D
+Link 2: https://www.linkedin.com/pulse/exploring-boon-bane-indian-education-system-focus-teachers-madany/?trackingId=KXGBELlbQUCyr8rFVhWkJA%3D%3D
 
 🤝 Connect and Collaborate
 
