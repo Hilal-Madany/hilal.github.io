@@ -15,8 +15,8 @@ Dive into my blog for valuable insights:Talks about #combustion, #filtration, #l
 Discover insightful content on the future of mechanical and educational excellence through the following links:
 
 - [Explore the Newsletter/Articles/Post and many more:] Likely, 
-  1. Engineering Concepts- https://www.linkedin.com/pulse/revolutionizing-mechanical-engineering-through-case-study-madany
-  2. General- https://www.linkedin.com/pulse/exploring-boon-bane-indian-education-system-focus-teachers-madany
+  1. [Engineering Concepts](https://www.linkedin.com/pulse/revolutionizing-mechanical-engineering-through-case-study-madany)
+  2. [General](https://www.linkedin.com/pulse/exploring-boon-bane-indian-education-system-focus-teachers-madany)
 
 In addition to creating compelling content that bridges technical complexities with practical insights, I also offer training programs designed to empower teams and elevate their expertise.
 
