@@ -39,6 +39,8 @@ Link 1: <style>
     </style>
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6890010523396882432" target="_blank">Subscribe on LinkedIn</a>
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7108577526133764096" height="345" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 🤝 Connect and Collaborate
 
 I've honed my skills in MEP operation and maintenance, further enriching my expertise. Together, let's navigate the ever-evolving landscape of Techno-Commercial Facility Management, where innovation drives efficiency, and mechanical excellence reigns supreme. Join me in shaping a brighter future! ✨🔗 #MechanicalEngineering #InnovationInAction #MEPExpertise
