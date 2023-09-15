@@ -41,6 +41,8 @@ Link 1: <style>
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7108577526133764096" height="345" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7102089867899080704" height="1319" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 🤝 Connect and Collaborate
 
 I've honed my skills in MEP operation and maintenance, further enriching my expertise. Together, let's navigate the ever-evolving landscape of Techno-Commercial Facility Management, where innovation drives efficiency, and mechanical excellence reigns supreme. Join me in shaping a brighter future! ✨🔗 #MechanicalEngineering #InnovationInAction #MEPExpertise
