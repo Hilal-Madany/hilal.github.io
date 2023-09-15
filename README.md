@@ -39,11 +39,40 @@ Link 1: <style>
     </style>
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6890010523396882432" target="_blank">Subscribe on LinkedIn</a>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7103858363041538048" height="1276" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .post {
+            width: calc(50% - 10px); /* Two columns with a small gap between them */
+            margin-bottom: 20px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7103858363041538048" height="600" width="504" frameborder="0" allowfullscreen="" title="Embedded post" class="post"></iframe>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7108577526133764096" height="345" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7108577526133764096" height="345" width="504" frameborder="0" allowfullscreen="" title="Embedded post" class="post"></iframe>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7102089867899080704" height="1319" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7102089867899080704" height="600" width="504" frameborder="0" allowfullscreen="" title="Embedded post" class="post"></iframe>
+    </div>
+    </body>
+</html>
 
 🤝 Connect and Collaborate
 
