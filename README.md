@@ -39,6 +39,8 @@ Link 1: <style>
     </style>
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6890010523396882432" target="_blank">Subscribe on LinkedIn</a>
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7103858363041538048" height="1276" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7108577526133764096" height="345" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7102089867899080704" height="1319" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
