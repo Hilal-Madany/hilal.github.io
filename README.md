@@ -1,45 +1,48 @@
-Welcome to My Blog: Where Expertise Meets Empowerment
+# Traveling the World: From Sales to Facilities Management - My Career Journey
 
-📝 Content Writer Extraordinaire
+My career path has been a fascinating journey, filled with diverse roles and experiences that have shaped me into the skilled professional I am today.
 
 ## About Me
 
-In the realm where technology and facility management converge, I serve as a guiding luminary. With a wealth of experience as a mechanical engineer, I specialize in refining filtration systems, orchestrating MEP intricacies, mastering combustion dynamics, and optimizing lubrication processes. My overarching mission? To catapult operational excellence in maintenance services, ensuring impeccable performance in every mechanical facet.
+- 👋 **Hello!** I began my career in the sales industry, where I honed my communication skills, built strong customer relationships, and helped clients meet their needs.
 
-I'm a passionate content writer, and I've crafted engaging narratives, insightful articles, and compelling stories. My words inform, inspire, and captivate.
+- 🌍 **Sales Across Industries:** My travels have taken me through various sectors, including Filtration, Mining, Combustion, and Manufacturing. I've ventured beyond sales into project roles such as cost specialist and coordinator, effectively managing budgets, teams, and resources.
 
-Dive into my blog for valuable insights:Talks about #combustion, #filtration, #lubrication, #projectsales, #facilitiesmanagement and #Educational Society
+- 🛠️ **Technical Expertise:** My educational background includes technical roles as a Service and Site Engineer. I've ensured that complex systems like filters and combustion operate at peak efficiency.
 
-## Explore My Content 🌐 
+- 📈 **Sales and Marketing Acumen:** Eager for new challenges, I transitioned to Sales and Marketing. As a mechanical engineer, I excel at translating complex engineering solutions into tangible benefits for customers, tailoring each solution to meet their unique requirements.
 
-Discover insightful content on the future of mechanical and educational excellence through the following links:
+- 🏢 **Facilities Management:** My career naturally evolved into facilities management, where I applied my background in sales, project management, and engineering. I ensure that every facility I manage is not only functional but optimized for maximum efficiency and stability.
 
-- [Explore the Newsletter/Articles/Post and many more:] Likely, 
-  1. [Engineering Concepts](https://www.linkedin.com/pulse/revolutionizing-mechanical-engineering-through-case-study-madany)
-  2. [General](https://www.linkedin.com/pulse/exploring-boon-bane-indian-education-system-focus-teachers-madany)
+- 🎥 **Content Creation and Education:** Beyond my career, I'm passionate about creating educational content, especially in the realm of mechanical projects and technical concepts. This hobby allows me to share knowledge and learn in a fun way.
+
+## Community and Philanthropy
+
+- 👫 **Dedicated to the Community:** Giving back is a core value. I am associated with Modern Education and Welfare Society / MMF Trust, where we tirelessly work to develop and nurture the community.
+
+## Future Goals
+
+- 🚀 **Future Career:** As I continue advancing my career, my dedication remains strong. My goal is to contribute to EPC and facility management companies by developing innovative, cost-effective, and sustainable solutions.
+
+- 🤝 **Collaboration:** I'm always open to collaborations with professionals who share my passion for innovation, efficiency, and diverse experiences. Let's explore how our shared enthusiasm can lead to exciting collaborations!
+
+## Explore My Content 🌐 📝 Content Writer Extraordinaire
+
+You can explore insightful content on the future of mechanical and educational excellence through the following links:
+
+- [Engineering Concepts](https://www.linkedin.com/pulse/revolutionizing-mechanical-engineering-through-case-study-madany)
+- [General Insights](https://www.linkedin.com/pulse/exploring-boon-bane-indian-education-system-focus-teachers-madany)
 
 In addition to creating compelling content that bridges technical complexities with practical insights, I also offer training programs designed to empower teams and elevate their expertise.
 
-Link 1: <style>
-      .libutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6890010523396882432" target="_blank">Subscribe on LinkedIn</a>
-
-<style>
+<iframe srcdoc="
+<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+    <meta charset=&quot;UTF-8&quot;>
+    <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+    <title>Your Page Title</title>
+    <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -64,15 +67,16 @@ Link 1: <style>
     </style>
 </head>
 <body>
-    <div class="container">
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7103858363041538048" height="600" width="504" frameborder="0" allowfullscreen="" title="Embedded post" class="post"></iframe>
+    <div class=&quot;container&quot;>
+        <iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:share:7103858363041538048&quot; height=&quot;600&quot; width=&quot;504&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; title=&quot;Embedded post&quot; class=&quot;post&quot;></iframe>
 
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7108577526133764096" height="345" width="504" frameborder="0" allowfullscreen="" title="Embedded post" class="post"></iframe>
+        <iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7108577526133764096&quot; height=&quot;345&quot; width=&quot;504&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; title=&quot;Embedded post&quot; class=&quot;post&quot;></iframe>
 
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7102089867899080704" height="600" width="504" frameborder="0" allowfullscreen="" title="Embedded post" class="post"></iframe>
+        <iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:share:7102089867899080704&quot; height=&quot;600&quot; width=&quot;504&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; title=&quot;Embedded post&quot; class=&quot;post&quot;></iframe>
     </div>
-    </body>
+</body>
 </html>
+" style="border: none; width: 100%; height: 800px;"></iframe>
 
 🤝 Connect and Collaborate
 
