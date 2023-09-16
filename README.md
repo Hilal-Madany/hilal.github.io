@@ -73,6 +73,8 @@ In addition to creating compelling content that bridges technical complexities w
         <iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7108577526133764096&quot; height=&quot;345&quot; width=&quot;504&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; title=&quot;Embedded post&quot; class=&quot;post&quot;></iframe>
 
         <iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:share:7102089867899080704&quot; height=&quot;600&quot; width=&quot;504&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; title=&quot;Embedded post&quot; class=&quot;post&quot;></iframe>
+
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7108598794455269376" height="1458" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
     </div>
 </body>
 </html>
