@@ -35,51 +35,6 @@ You can explore insightful content on the future of mechanical and educational e
 
 In addition to creating compelling content that bridges technical complexities with practical insights, I also offer training programs designed to empower teams and elevate their expertise.
 
-<iframe srcdoc="
-<!DOCTYPE html>
-<html lang=&quot;en&quot;>
-<head>
-    <meta charset=&quot;UTF-8&quot;>
-    <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
-    <title>Your Page Title</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f5f5f5;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-        }
-        .post {
-            width: calc(50% - 10px); /* Two columns with a small gap between them */
-            margin-bottom: 20px;
-            box-sizing: border-box;
-        }
-    </style>
-</head>
-<body>
-    <div class=&quot;container&quot;>
-        <iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:share:7103858363041538048&quot; height=&quot;600&quot; width=&quot;504&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; title=&quot;Embedded post&quot; class=&quot;post&quot;></iframe>
-
-        <iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7108577526133764096&quot; height=&quot;345&quot; width=&quot;504&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; title=&quot;Embedded post&quot; class=&quot;post&quot;></iframe>
-
-        <iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:share:7102089867899080704&quot; height=&quot;600&quot; width=&quot;504&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; title=&quot;Embedded post&quot; class=&quot;post&quot;></iframe>
-
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7108598794455269376" height="1458" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-    </div>
-</body>
-</html>
-" style="border: none; width: 100%; height: 800px;"></iframe>
-
 🤝 Connect and Collaborate
 
 I've honed my skills in MEP operation and maintenance, further enriching my expertise. Together, let's navigate the ever-evolving landscape of Techno-Commercial Facility Management, where innovation drives efficiency, and mechanical excellence reigns supreme. Join me in shaping a brighter future! ✨🔗 #MechanicalEngineering #InnovationInAction #MEPExpertise
